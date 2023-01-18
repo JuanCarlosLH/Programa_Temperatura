@@ -1,0 +1,2 @@
+com.panamahitek.thermometer_test.Termometro
+com.panamahitek.thermometer_test.Termometro$1
